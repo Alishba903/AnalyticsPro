@@ -20,6 +20,7 @@
 
 1. Clone or download this repository.
 2. Open `index.html` in your web browser.
+3. Download the `live server` and `Go live`.
 
 No installation or backend required.
 A minimal app
