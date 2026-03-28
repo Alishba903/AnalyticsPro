@@ -642,6 +642,7 @@ body.dark-mode {
   --yinmn-blue: #556b8a;
   --silver-lake-blue: #a6b1c0;
 
+
   background-color: var(--light-neutral);
   color: var(--platinum);
 }
@@ -672,7 +673,7 @@ body.dark-mode .logo-subtitle {
 body.dark-mode .period-select,
 body.dark-mode .transaction-filter {
   background: var(--oxford-blue);
-  color: var(--light-neutral);
+  color: whitesmoke;
   border-color: rgba(255, 255, 255, 0.2);
 }
 
